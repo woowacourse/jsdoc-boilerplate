@@ -1,17 +1,19 @@
 # JSDoc Boilerplate
 
-## Install
+## Usage
+
+### Install
 
 ```bash
 npm install
 ```
 
-## Build
+### Build
 
 ```bash
 npm run docs
 ```
 
-## Reference
+#### Reference
 
 - [jsdoc.app](https://jsdoc.app)
