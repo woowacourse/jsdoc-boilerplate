@@ -1,0 +1,23 @@
+{
+	"name": "jsdoc-boilerplate",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"docs": "jsdoc -c jsdoc.json"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/woowacourse/jsdoc-boilerplate.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/woowacourse/jsdoc-boilerplate/issues"
+	},
+	"homepage": "https://github.com/woowacourse/jsdoc-boilerplate#readme",
+	"devDependencies": {
+		"jsdoc": "^3.6.10"
+	}
+}
